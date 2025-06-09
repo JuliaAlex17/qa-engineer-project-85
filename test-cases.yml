@@ -111,7 +111,7 @@
     - Нажимаем кнопку "Sign up with Discord"
   expected-result: |
     После успешной аутентификации на Discord пользователь должен быть автоматически перенаправлен обратно на сайт и видит уведомление "Successfully authenticated"
-
+    
 - summary: |
     Проверка успешной авторизации пользователя на сайте с использованием аккаунта Discord после нажатия кнопки "Sign in with Discord"
   requirement: |
