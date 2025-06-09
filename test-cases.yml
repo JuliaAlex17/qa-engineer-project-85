@@ -521,7 +521,7 @@
   test-data: |
     Логин = JaisonPRoekt@yandex.ru Пароль = !12345qwert
   steps:
-    - Открыть сайт в браузере Google Chrome Версия: 137.0.7151.69
+    - Открыть сайт в браузере Google Chrome
     - Выполнить вход на сайт
     - Нажать на кнопку "Create a game"
     - Выбрать параметры игры
