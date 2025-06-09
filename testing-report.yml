@@ -61,8 +61,8 @@
 
 - summary: |
     Создание игры с параметрами по умолчанию
-   status: pass
-     
+  status: pass
+  
 - summary: |
     Создание игры с выбранными параметрами
   status: pass
